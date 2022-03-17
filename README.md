@@ -1,4 +1,4 @@
 # git-github
 
 
-This is leraning purpose only..!
+This is learning purpose only..!
